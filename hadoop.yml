@@ -1,4 +1,4 @@
-- hosts: 192.168.43.46
+- hosts: name_node
   - vars:
      folder: "nn"
      node: "name"
